@@ -8,7 +8,7 @@ function App() {
 }
 function App1(){
   return(
-    <h1>First day</h1>
+    <h1>First day project</h1>
   )
 }
 
